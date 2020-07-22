@@ -2,7 +2,7 @@
 
 React application for sem
 
-### App dependencies built version
+### App dependencies version
 
 Npm version 6.14.5
 
@@ -13,17 +13,17 @@ Node version v12.18.2
 Naufal bantu plz
 
 ```
-lol
+setup env
 ```
 
 Run android app
 
 ```
-run android plz
+run android 
 ```
 
 Run ios app
 
 ```
-run ios plz
+run ios
 ```

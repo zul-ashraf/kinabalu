@@ -21,6 +21,7 @@ npm start
 ```
 
 Run in android simulator 
+```
 npm android
 ```
 

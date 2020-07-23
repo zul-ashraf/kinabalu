@@ -9,21 +9,23 @@ Npm version 6.14.5
 Node version v12.18.2
 
 ### Setup Environment
-
-Naufal bantu plz
-
+Install dependency after cloning repository
 ```
-setup env
+npm install 
 ```
 
-Run android app
+Run Expo Developer Tools 
 
 ```
-run android 
+npm start
 ```
 
-Run ios app
+Run in android simulator 
+npm android
+```
+
+Run in ios simulator 
 
 ```
-run ios
+npm ios
 ```
